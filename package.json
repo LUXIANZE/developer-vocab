@@ -1,0 +1,23 @@
+{
+  "name": "developer-vocab",
+  "version": "1.0.0",
+  "description": "1. **Idempotent** - Produces same result   Taking REST API as example, Idempotency is demonstrated in ```GET```, ```PUT```, ```DELETE```, ```HEAD```, ```OPTIONS```, ```TRACE```. However, ```POST``` is not idempotent.   For more info, read [this](https://restfulapi.net/idempotent-rest-apis/#:~:text=In%20the%20context%20of%20REST,REST%20API%20is%20called%20idempotent.&text=An%20idempotent%20HTTP%20method%20is,many%20times%20without%20different%20outcomes.). 2. **Ephemeral** - may not persist, opposite of immutable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUXIANZE/developer-vocab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUXIANZE/developer-vocab/issues"
+  },
+  "homepage": "https://github.com/LUXIANZE/developer-vocab#readme",
+  "devDependencies": {
+    "prettier": "2.2.0"
+  }
+}
