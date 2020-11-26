@@ -45,25 +45,25 @@ I often find myself stuggle a lot while reading some documents regarding compute
 
 ### B
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### C
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### D
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### E
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 1. **Ephemeral**
    - May not persist, opposite of immutable
@@ -72,25 +72,25 @@ I often find myself stuggle a lot while reading some documents regarding compute
 
 ### F
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### G
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### H
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### I
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 1. **Idempotent**
    - Produces same result
@@ -101,100 +101,100 @@ I often find myself stuggle a lot while reading some documents regarding compute
 
 ### J
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### K
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### L
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### M
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### N
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### O
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### P
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### Q
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### R
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### S
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### T
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### U
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### V
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### W
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### X
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### Y
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
 
 ---
 
 ### Z
 
-[BACK TO TOP](#TABLE-OF-CONTENT:)
+[BACK TO TOP](#table-of-content)
