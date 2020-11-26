@@ -35,7 +35,7 @@ I often find myself stuggle a lot while reading some documents regarding compute
 
 ### A
 
-[BACK TO TOP](#-TABLE-OF-CONTENT:)
+[BACK TO TOP](#-table-of-content:)
 
 1. **Arbitrary**
    - Based on chance rather than being planned or based on reason
